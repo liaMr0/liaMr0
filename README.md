@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lianet Moreira Rodríguez, a Software Engineer focused on creating attractive, responsive, accessible and easy-to-use web applications. I am proficient in HTML, CSS, TailwindCSS, JavaScript, TypeScript, React and Next.js.</p>
+<p align="left">My name is Lianet Moreira Rodríguez, a Computer Engineer focused on creating attractive, responsive, accessible and easy-to-use web applications. I am proficient in HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Next.js and Vue.js.</p>
 
 ###
 
@@ -33,9 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
