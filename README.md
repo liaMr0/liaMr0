@@ -3,7 +3,7 @@
 <h2 align="left">👩‍💻About me:</h2>
 
 ###
-Computer Engineering graduate with **Highest Honors**, passionate about **software development and technology**, always striving to deliver **high-quality software** on time.  
+Computer Engineering passionate about software development and technology.
 
 Recognized for:
 - 🚀 Fast learning and resilience  
