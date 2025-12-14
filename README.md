@@ -3,7 +3,7 @@
 <h2 align="left">👩‍💻About me:</h2>
 
 ###
-Computer Engineering passionate about software development and technology.
+Computer Engineer passionate about software development and technology.
 
 Recognized for:
 - 🚀 Fast learning and resilience  
