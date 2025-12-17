@@ -48,13 +48,14 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
 </div>
 
-###
+<h2 align="center">Contact me</h2>
 
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/lianet-moreira-741834162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="@li_mr" target="_blank">
+  <a href="https://telegram.org/@li_mr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
