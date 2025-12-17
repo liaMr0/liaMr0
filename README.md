@@ -2,20 +2,18 @@
 
 ###
 
-<p align="left">I’m a computer engineer who’s genuinely passionate about software development and technology. What drives me is the thrill of learning fast, bouncing back from challenges, and paying close attention to the details that make a big difference. I value clear, assertive communication and I’m always open to feedback because I believe growth comes from continuous improvement.
+<p align="left">I’m a computer engineer who’s genuinely passionate about software development and technology. What drives me is the thrill of learning fast, bouncing back from challenges, and paying close attention to the details that make a big difference. I value clear, assertive communication and I’m always open to feedback because I believe growth comes from continuous improvement.<br><br>In my work, I’ve learned to manage myself effectively while collaborating smoothly with agile teams. I take pride in consistently delivering production-ready code on time, and I’ve had the chance to contribute to projects that highlight my ability to build web applications that aren’t just functional, but truly exceptional.</p>
 
-In my work, I’ve learned to manage myself effectively while collaborating smoothly with agile teams. I take pride in consistently delivering production-ready code on time, and I’ve had the chance to contribute to projects that highlight my ability to build web applications that aren’t just functional, but truly exceptional.</p>
-
-###
 ###
 
 <h2 align="center">Tech arsenal</h2>
 
 ###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
@@ -23,13 +21,13 @@ In my work, I’ve learned to manage myself effectively while collaborating smoo
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
@@ -37,13 +35,13 @@ In my work, I’ve learned to manage myself effectively while collaborating smoo
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
