@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I’m a computer engineer who’s genuinely passionate about software development and technology. What drives me is the thrill of learning fast, bouncing back from challenges, and paying close attention to the details that make a big difference. I value clear, assertive communication and I’m always open to feedback because I believe growth comes from continuous improvement.<br><br>In my work, I’ve learned to manage myself effectively while collaborating smoothly with agile teams. I take pride in consistently delivering production-ready code on time, and I’ve had the chance to contribute to projects that highlight my ability to build web applications that aren’t just functional, but truly exceptional.</p>
+<p align="left">I’m a computer engineer with a genuine passion for building software and diving into new technologies. I have a quick learning curve and can adapt easily when faced with challenges, always focusing on the small details that transform a good idea into a great solution. I value clear, open communication and see feedback as an essential part of growth—both professionally and personally.
+
+In my career, I’ve developed the ability to manage my own work effectively while collaborating seamlessly within agile teams. I take pride in consistently delivering production-ready code on time, and I’ve been fortunate to contribute to projects that showcase my knack for building web applications that are not just functional, but truly exceptional.</p>
 
 ###
 
